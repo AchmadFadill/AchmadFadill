@@ -2,12 +2,12 @@
 
 
 
-### 👨‍💻 About Me
+
 I am a passionate developer dedicated to creating innovative digital solutions. My current focus is on web application development and continuously sharpening my programming skills. Beyond coding, I have a deep interest in Photography, capturing moments and bringing them to life through digital art.
 
 ---
 
-### 🛠️ Skills & Technologies
+
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -21,12 +21,7 @@ I am a passionate developer dedicated to creating innovative digital solutions. 
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AchmadFadill&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchmadFadill&layout=compact&theme=dracula&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AchmadFadill&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AchmadFadill&theme=dark-green" />
 </p>
 
 ---
@@ -37,7 +32,7 @@ I am a passionate developer dedicated to creating innovative digital solutions. 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AchmadFadill/AchmadFadill/output/pacman-contribution-graph.svg">
 </picture>
 
-### 📫 Let's Connect!
+### Let's Connect!
 If you'd like to discuss or collaborate, feel free to reach out to me via:
 
 <p align="center">
